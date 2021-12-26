@@ -28,4 +28,4 @@ Sobre a compilação e execução de código C#:
 
 4 - O compilador gera o MSIL caso não tenha nenhum erro sintático no código fonte.
 
-###2. Nosso primeiro programa e o Visual Studio
+###2. Nosso primeiro programa e o Visual Studio (A)
