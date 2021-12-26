@@ -1,8 +1,8 @@
-#Formação C# e Orientação a Objetos
+# Formação C# e Orientação a Objetos
 
-##Curso C# - Parte 1
+## Curso C# - Parte 1
 
-###1. História e ecossistema da linguagem
+### 1. História e ecossistema da linguagem
 
 Aula 2 - Qual é o grande benefício de uma Maquina Virtual .NET (CLR - common language runtime)?
 
@@ -28,4 +28,4 @@ Sobre a compilação e execução de código C#:
 
 4 - O compilador gera o MSIL caso não tenha nenhum erro sintático no código fonte.
 
-###2. Nosso primeiro programa e o Visual Studio (A)
+### 2. Nosso primeiro programa e o Visual Studio (A)
