@@ -4,6 +4,6 @@ class Programa
 {
 	static void Main(string[] args)
 	{
-		Console.WhiteLine("Olá mundo!!!);
+		Console.WriteLine("Olá mundo!!! Esse é meu primeiro programa '.exe'.");
 	}
 }
