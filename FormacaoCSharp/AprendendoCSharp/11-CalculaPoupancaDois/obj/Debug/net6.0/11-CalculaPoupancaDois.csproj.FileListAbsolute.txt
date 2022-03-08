@@ -1,0 +1,15 @@
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\11-CalculaPoupancaDois\bin\Debug\net6.0\11-CalculaPoupancaDois.exe
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\11-CalculaPoupancaDois\bin\Debug\net6.0\11-CalculaPoupancaDois.deps.json
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\11-CalculaPoupancaDois\bin\Debug\net6.0\11-CalculaPoupancaDois.runtimeconfig.json
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\11-CalculaPoupancaDois\bin\Debug\net6.0\11-CalculaPoupancaDois.dll
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\11-CalculaPoupancaDois\bin\Debug\net6.0\11-CalculaPoupancaDois.pdb
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\11-CalculaPoupancaDois\obj\Debug\net6.0\11-CalculaPoupancaDois.csproj.AssemblyReference.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\11-CalculaPoupancaDois\obj\Debug\net6.0\11-CalculaPoupancaDois.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\11-CalculaPoupancaDois\obj\Debug\net6.0\11-CalculaPoupancaDois.AssemblyInfoInputs.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\11-CalculaPoupancaDois\obj\Debug\net6.0\11-CalculaPoupancaDois.AssemblyInfo.cs
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\11-CalculaPoupancaDois\obj\Debug\net6.0\11-CalculaPoupancaDois.csproj.CoreCompileInputs.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\11-CalculaPoupancaDois\obj\Debug\net6.0\11-CalculaPoupancaDois.dll
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\11-CalculaPoupancaDois\obj\Debug\net6.0\refint\11-CalculaPoupancaDois.dll
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\11-CalculaPoupancaDois\obj\Debug\net6.0\11-CalculaPoupancaDois.pdb
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\11-CalculaPoupancaDois\obj\Debug\net6.0\11-CalculaPoupancaDois.genruntimeconfig.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\11-CalculaPoupancaDois\obj\Debug\net6.0\ref\11-CalculaPoupancaDois.dll

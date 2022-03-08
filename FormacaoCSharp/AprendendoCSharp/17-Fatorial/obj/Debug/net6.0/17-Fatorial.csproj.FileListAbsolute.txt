@@ -1,0 +1,15 @@
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\17-Fatorial\bin\Debug\net6.0\17-Fatorial.exe
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\17-Fatorial\bin\Debug\net6.0\17-Fatorial.deps.json
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\17-Fatorial\bin\Debug\net6.0\17-Fatorial.runtimeconfig.json
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\17-Fatorial\bin\Debug\net6.0\17-Fatorial.dll
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\17-Fatorial\bin\Debug\net6.0\17-Fatorial.pdb
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\17-Fatorial\obj\Debug\net6.0\17-Fatorial.csproj.AssemblyReference.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\17-Fatorial\obj\Debug\net6.0\17-Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\17-Fatorial\obj\Debug\net6.0\17-Fatorial.AssemblyInfoInputs.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\17-Fatorial\obj\Debug\net6.0\17-Fatorial.AssemblyInfo.cs
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\17-Fatorial\obj\Debug\net6.0\17-Fatorial.csproj.CoreCompileInputs.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\17-Fatorial\obj\Debug\net6.0\17-Fatorial.dll
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\17-Fatorial\obj\Debug\net6.0\refint\17-Fatorial.dll
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\17-Fatorial\obj\Debug\net6.0\17-Fatorial.pdb
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\17-Fatorial\obj\Debug\net6.0\17-Fatorial.genruntimeconfig.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\17-Fatorial\obj\Debug\net6.0\ref\17-Fatorial.dll

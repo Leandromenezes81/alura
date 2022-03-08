@@ -1,0 +1,15 @@
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\09-Escopo\bin\Debug\net6.0\09-Escopo.exe
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\09-Escopo\bin\Debug\net6.0\09-Escopo.deps.json
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\09-Escopo\bin\Debug\net6.0\09-Escopo.runtimeconfig.json
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\09-Escopo\bin\Debug\net6.0\09-Escopo.dll
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\09-Escopo\bin\Debug\net6.0\09-Escopo.pdb
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\09-Escopo\obj\Debug\net6.0\09-Escopo.csproj.AssemblyReference.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\09-Escopo\obj\Debug\net6.0\09-Escopo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\09-Escopo\obj\Debug\net6.0\09-Escopo.AssemblyInfoInputs.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\09-Escopo\obj\Debug\net6.0\09-Escopo.AssemblyInfo.cs
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\09-Escopo\obj\Debug\net6.0\09-Escopo.csproj.CoreCompileInputs.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\09-Escopo\obj\Debug\net6.0\09-Escopo.dll
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\09-Escopo\obj\Debug\net6.0\refint\09-Escopo.dll
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\09-Escopo\obj\Debug\net6.0\09-Escopo.pdb
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\09-Escopo\obj\Debug\net6.0\09-Escopo.genruntimeconfig.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\09-Escopo\obj\Debug\net6.0\ref\09-Escopo.dll

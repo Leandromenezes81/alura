@@ -1,0 +1,15 @@
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\07-Condicionais\bin\Debug\net6.0\07-Condicionais.exe
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\07-Condicionais\bin\Debug\net6.0\07-Condicionais.deps.json
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\07-Condicionais\bin\Debug\net6.0\07-Condicionais.runtimeconfig.json
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\07-Condicionais\bin\Debug\net6.0\07-Condicionais.dll
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\07-Condicionais\bin\Debug\net6.0\07-Condicionais.pdb
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\07-Condicionais\obj\Debug\net6.0\07-Condicionais.csproj.AssemblyReference.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\07-Condicionais\obj\Debug\net6.0\07-Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\07-Condicionais\obj\Debug\net6.0\07-Condicionais.AssemblyInfoInputs.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\07-Condicionais\obj\Debug\net6.0\07-Condicionais.AssemblyInfo.cs
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\07-Condicionais\obj\Debug\net6.0\07-Condicionais.csproj.CoreCompileInputs.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\07-Condicionais\obj\Debug\net6.0\07-Condicionais.dll
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\07-Condicionais\obj\Debug\net6.0\refint\07-Condicionais.dll
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\07-Condicionais\obj\Debug\net6.0\07-Condicionais.pdb
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\07-Condicionais\obj\Debug\net6.0\07-Condicionais.genruntimeconfig.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\07-Condicionais\obj\Debug\net6.0\ref\07-Condicionais.dll

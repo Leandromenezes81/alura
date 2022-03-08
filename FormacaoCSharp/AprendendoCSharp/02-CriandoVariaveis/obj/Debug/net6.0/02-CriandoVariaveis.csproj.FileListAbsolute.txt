@@ -1,0 +1,15 @@
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\02-CriandoVariaveis\bin\Debug\net6.0\02-CriandoVariaveis.exe
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\02-CriandoVariaveis\bin\Debug\net6.0\02-CriandoVariaveis.deps.json
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\02-CriandoVariaveis\bin\Debug\net6.0\02-CriandoVariaveis.runtimeconfig.json
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\02-CriandoVariaveis\bin\Debug\net6.0\02-CriandoVariaveis.dll
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\02-CriandoVariaveis\bin\Debug\net6.0\02-CriandoVariaveis.pdb
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\02-CriandoVariaveis\obj\Debug\net6.0\02-CriandoVariaveis.csproj.AssemblyReference.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\02-CriandoVariaveis\obj\Debug\net6.0\02-CriandoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\02-CriandoVariaveis\obj\Debug\net6.0\02-CriandoVariaveis.AssemblyInfoInputs.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\02-CriandoVariaveis\obj\Debug\net6.0\02-CriandoVariaveis.AssemblyInfo.cs
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\02-CriandoVariaveis\obj\Debug\net6.0\02-CriandoVariaveis.csproj.CoreCompileInputs.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\02-CriandoVariaveis\obj\Debug\net6.0\02-CriandoVariaveis.dll
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\02-CriandoVariaveis\obj\Debug\net6.0\refint\02-CriandoVariaveis.dll
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\02-CriandoVariaveis\obj\Debug\net6.0\02-CriandoVariaveis.pdb
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\02-CriandoVariaveis\obj\Debug\net6.0\02-CriandoVariaveis.genruntimeconfig.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\02-CriandoVariaveis\obj\Debug\net6.0\ref\02-CriandoVariaveis.dll

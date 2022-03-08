@@ -1,0 +1,15 @@
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\06-AtribuicaoDeVariaveis\bin\Debug\net6.0\06-AtribuicaoDeVariaveis.exe
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\06-AtribuicaoDeVariaveis\bin\Debug\net6.0\06-AtribuicaoDeVariaveis.deps.json
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\06-AtribuicaoDeVariaveis\bin\Debug\net6.0\06-AtribuicaoDeVariaveis.runtimeconfig.json
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\06-AtribuicaoDeVariaveis\bin\Debug\net6.0\06-AtribuicaoDeVariaveis.dll
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\06-AtribuicaoDeVariaveis\bin\Debug\net6.0\06-AtribuicaoDeVariaveis.pdb
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\06-AtribuicaoDeVariaveis\obj\Debug\net6.0\06-AtribuicaoDeVariaveis.csproj.AssemblyReference.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\06-AtribuicaoDeVariaveis\obj\Debug\net6.0\06-AtribuicaoDeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\06-AtribuicaoDeVariaveis\obj\Debug\net6.0\06-AtribuicaoDeVariaveis.AssemblyInfoInputs.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\06-AtribuicaoDeVariaveis\obj\Debug\net6.0\06-AtribuicaoDeVariaveis.AssemblyInfo.cs
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\06-AtribuicaoDeVariaveis\obj\Debug\net6.0\06-AtribuicaoDeVariaveis.csproj.CoreCompileInputs.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\06-AtribuicaoDeVariaveis\obj\Debug\net6.0\06-AtribuicaoDeVariaveis.dll
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\06-AtribuicaoDeVariaveis\obj\Debug\net6.0\refint\06-AtribuicaoDeVariaveis.dll
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\06-AtribuicaoDeVariaveis\obj\Debug\net6.0\06-AtribuicaoDeVariaveis.pdb
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\06-AtribuicaoDeVariaveis\obj\Debug\net6.0\06-AtribuicaoDeVariaveis.genruntimeconfig.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\06-AtribuicaoDeVariaveis\obj\Debug\net6.0\ref\06-AtribuicaoDeVariaveis.dll

@@ -1,0 +1,15 @@
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\04-ConversoesEOutrosTiposNumericos\bin\Debug\net6.0\04-ConversoesEOutrosTiposNumericos.exe
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\04-ConversoesEOutrosTiposNumericos\bin\Debug\net6.0\04-ConversoesEOutrosTiposNumericos.deps.json
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\04-ConversoesEOutrosTiposNumericos\bin\Debug\net6.0\04-ConversoesEOutrosTiposNumericos.runtimeconfig.json
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\04-ConversoesEOutrosTiposNumericos\bin\Debug\net6.0\04-ConversoesEOutrosTiposNumericos.dll
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\04-ConversoesEOutrosTiposNumericos\bin\Debug\net6.0\04-ConversoesEOutrosTiposNumericos.pdb
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\04-ConversoesEOutrosTiposNumericos\obj\Debug\net6.0\04-ConversoesEOutrosTiposNumericos.csproj.AssemblyReference.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\04-ConversoesEOutrosTiposNumericos\obj\Debug\net6.0\04-ConversoesEOutrosTiposNumericos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\04-ConversoesEOutrosTiposNumericos\obj\Debug\net6.0\04-ConversoesEOutrosTiposNumericos.AssemblyInfoInputs.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\04-ConversoesEOutrosTiposNumericos\obj\Debug\net6.0\04-ConversoesEOutrosTiposNumericos.AssemblyInfo.cs
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\04-ConversoesEOutrosTiposNumericos\obj\Debug\net6.0\04-ConversoesEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\04-ConversoesEOutrosTiposNumericos\obj\Debug\net6.0\04-ConversoesEOutrosTiposNumericos.dll
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\04-ConversoesEOutrosTiposNumericos\obj\Debug\net6.0\refint\04-ConversoesEOutrosTiposNumericos.dll
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\04-ConversoesEOutrosTiposNumericos\obj\Debug\net6.0\04-ConversoesEOutrosTiposNumericos.pdb
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\04-ConversoesEOutrosTiposNumericos\obj\Debug\net6.0\04-ConversoesEOutrosTiposNumericos.genruntimeconfig.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\04-ConversoesEOutrosTiposNumericos\obj\Debug\net6.0\ref\04-ConversoesEOutrosTiposNumericos.dll

@@ -1,0 +1,15 @@
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\16-MultiplosDeTres\bin\Debug\net6.0\16-MultiplosDeTres.exe
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\16-MultiplosDeTres\bin\Debug\net6.0\16-MultiplosDeTres.deps.json
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\16-MultiplosDeTres\bin\Debug\net6.0\16-MultiplosDeTres.runtimeconfig.json
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\16-MultiplosDeTres\bin\Debug\net6.0\16-MultiplosDeTres.dll
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\16-MultiplosDeTres\bin\Debug\net6.0\16-MultiplosDeTres.pdb
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\16-MultiplosDeTres\obj\Debug\net6.0\16-MultiplosDeTres.csproj.AssemblyReference.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\16-MultiplosDeTres\obj\Debug\net6.0\16-MultiplosDeTres.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\16-MultiplosDeTres\obj\Debug\net6.0\16-MultiplosDeTres.AssemblyInfoInputs.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\16-MultiplosDeTres\obj\Debug\net6.0\16-MultiplosDeTres.AssemblyInfo.cs
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\16-MultiplosDeTres\obj\Debug\net6.0\16-MultiplosDeTres.csproj.CoreCompileInputs.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\16-MultiplosDeTres\obj\Debug\net6.0\16-MultiplosDeTres.dll
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\16-MultiplosDeTres\obj\Debug\net6.0\refint\16-MultiplosDeTres.dll
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\16-MultiplosDeTres\obj\Debug\net6.0\16-MultiplosDeTres.pdb
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\16-MultiplosDeTres\obj\Debug\net6.0\16-MultiplosDeTres.genruntimeconfig.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\16-MultiplosDeTres\obj\Debug\net6.0\ref\16-MultiplosDeTres.dll

@@ -1,0 +1,15 @@
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\CalculaInvestimentoLongoPrazo\bin\Debug\net6.0\CalculaInvestimentoLongoPrazo.exe
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\CalculaInvestimentoLongoPrazo\bin\Debug\net6.0\CalculaInvestimentoLongoPrazo.deps.json
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\CalculaInvestimentoLongoPrazo\bin\Debug\net6.0\CalculaInvestimentoLongoPrazo.runtimeconfig.json
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\CalculaInvestimentoLongoPrazo\bin\Debug\net6.0\CalculaInvestimentoLongoPrazo.dll
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\CalculaInvestimentoLongoPrazo\bin\Debug\net6.0\CalculaInvestimentoLongoPrazo.pdb
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\CalculaInvestimentoLongoPrazo\obj\Debug\net6.0\CalculaInvestimentoLongoPrazo.csproj.AssemblyReference.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\CalculaInvestimentoLongoPrazo\obj\Debug\net6.0\CalculaInvestimentoLongoPrazo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\CalculaInvestimentoLongoPrazo\obj\Debug\net6.0\CalculaInvestimentoLongoPrazo.AssemblyInfoInputs.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\CalculaInvestimentoLongoPrazo\obj\Debug\net6.0\CalculaInvestimentoLongoPrazo.AssemblyInfo.cs
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\CalculaInvestimentoLongoPrazo\obj\Debug\net6.0\CalculaInvestimentoLongoPrazo.csproj.CoreCompileInputs.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\CalculaInvestimentoLongoPrazo\obj\Debug\net6.0\CalculaInvestimentoLongoPrazo.dll
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\CalculaInvestimentoLongoPrazo\obj\Debug\net6.0\refint\CalculaInvestimentoLongoPrazo.dll
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\CalculaInvestimentoLongoPrazo\obj\Debug\net6.0\CalculaInvestimentoLongoPrazo.pdb
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\CalculaInvestimentoLongoPrazo\obj\Debug\net6.0\CalculaInvestimentoLongoPrazo.genruntimeconfig.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\CalculaInvestimentoLongoPrazo\obj\Debug\net6.0\ref\CalculaInvestimentoLongoPrazo.dll

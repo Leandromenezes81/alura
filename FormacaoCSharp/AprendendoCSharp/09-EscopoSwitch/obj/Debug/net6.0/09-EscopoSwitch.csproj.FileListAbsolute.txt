@@ -1,0 +1,15 @@
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\09-EscopoSwitch\bin\Debug\net6.0\09-EscopoSwitch.exe
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\09-EscopoSwitch\bin\Debug\net6.0\09-EscopoSwitch.deps.json
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\09-EscopoSwitch\bin\Debug\net6.0\09-EscopoSwitch.runtimeconfig.json
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\09-EscopoSwitch\bin\Debug\net6.0\09-EscopoSwitch.dll
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\09-EscopoSwitch\bin\Debug\net6.0\09-EscopoSwitch.pdb
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\09-EscopoSwitch\obj\Debug\net6.0\09-EscopoSwitch.csproj.AssemblyReference.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\09-EscopoSwitch\obj\Debug\net6.0\09-EscopoSwitch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\09-EscopoSwitch\obj\Debug\net6.0\09-EscopoSwitch.AssemblyInfoInputs.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\09-EscopoSwitch\obj\Debug\net6.0\09-EscopoSwitch.AssemblyInfo.cs
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\09-EscopoSwitch\obj\Debug\net6.0\09-EscopoSwitch.csproj.CoreCompileInputs.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\09-EscopoSwitch\obj\Debug\net6.0\09-EscopoSwitch.dll
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\09-EscopoSwitch\obj\Debug\net6.0\refint\09-EscopoSwitch.dll
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\09-EscopoSwitch\obj\Debug\net6.0\09-EscopoSwitch.pdb
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\09-EscopoSwitch\obj\Debug\net6.0\09-EscopoSwitch.genruntimeconfig.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\AprendendoCSharp\09-EscopoSwitch\obj\Debug\net6.0\ref\09-EscopoSwitch.dll
