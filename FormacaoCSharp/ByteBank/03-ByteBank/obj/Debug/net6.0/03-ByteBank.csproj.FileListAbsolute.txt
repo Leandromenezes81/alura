@@ -1,0 +1,15 @@
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\ByteBank\03-ByteBank\bin\Debug\net6.0\03-ByteBank.exe
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\ByteBank\03-ByteBank\bin\Debug\net6.0\03-ByteBank.deps.json
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\ByteBank\03-ByteBank\bin\Debug\net6.0\03-ByteBank.runtimeconfig.json
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\ByteBank\03-ByteBank\bin\Debug\net6.0\03-ByteBank.dll
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\ByteBank\03-ByteBank\bin\Debug\net6.0\03-ByteBank.pdb
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\ByteBank\03-ByteBank\obj\Debug\net6.0\03-ByteBank.csproj.AssemblyReference.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\ByteBank\03-ByteBank\obj\Debug\net6.0\03-ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\ByteBank\03-ByteBank\obj\Debug\net6.0\03-ByteBank.AssemblyInfoInputs.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\ByteBank\03-ByteBank\obj\Debug\net6.0\03-ByteBank.AssemblyInfo.cs
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\ByteBank\03-ByteBank\obj\Debug\net6.0\03-ByteBank.csproj.CoreCompileInputs.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\ByteBank\03-ByteBank\obj\Debug\net6.0\03-ByteBank.dll
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\ByteBank\03-ByteBank\obj\Debug\net6.0\refint\03-ByteBank.dll
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\ByteBank\03-ByteBank\obj\Debug\net6.0\03-ByteBank.pdb
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\ByteBank\03-ByteBank\obj\Debug\net6.0\03-ByteBank.genruntimeconfig.cache
+D:\Users\Leandro\Projetos\alura\FormacaoCSharp\ByteBank\03-ByteBank\obj\Debug\net6.0\ref\03-ByteBank.dll
