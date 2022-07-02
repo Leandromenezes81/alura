@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\04-ConversoesEOutrosTipos\\04-ConversoesEOutrosTipos.csproj",
+      "projectUniqueName": "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\04-ConversoesEOutrosTipos\\04-ConversoesEOutrosTipos.csproj",
       "projectName": "04-ConversoesEOutrosTipos",
-      "projectPath": "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\04-ConversoesEOutrosTipos\\04-ConversoesEOutrosTipos.csproj",
+      "projectPath": "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\04-ConversoesEOutrosTipos\\04-ConversoesEOutrosTipos.csproj",
       "packagesPath": "C:\\Users\\Leandro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\04-ConversoesEOutrosTipos\\obj\\",
+      "outputPath": "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\04-ConversoesEOutrosTipos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Leandro\\AppData\\Roaming\\NuGet\\NuGet.Config",

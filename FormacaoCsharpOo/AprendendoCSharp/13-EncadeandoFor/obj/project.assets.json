@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\13-EncadeandoFor\\13-EncadeandoFor.csproj",
+      "projectUniqueName": "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\13-EncadeandoFor\\13-EncadeandoFor.csproj",
       "projectName": "13-EncadeandoFor",
-      "projectPath": "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\13-EncadeandoFor\\13-EncadeandoFor.csproj",
+      "projectPath": "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\13-EncadeandoFor\\13-EncadeandoFor.csproj",
       "packagesPath": "C:\\Users\\Leandro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\13-EncadeandoFor\\obj\\",
+      "outputPath": "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\13-EncadeandoFor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Leandro\\AppData\\Roaming\\NuGet\\NuGet.Config",

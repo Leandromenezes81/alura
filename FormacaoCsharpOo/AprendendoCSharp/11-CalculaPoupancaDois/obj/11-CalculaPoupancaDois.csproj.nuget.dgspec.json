@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\11-CalculaPoupancaDois\\11-CalculaPoupancaDois.csproj": {}
+    "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\11-CalculaPoupancaDois\\11-CalculaPoupancaDois.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\11-CalculaPoupancaDois\\11-CalculaPoupancaDois.csproj": {
+    "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\11-CalculaPoupancaDois\\11-CalculaPoupancaDois.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\11-CalculaPoupancaDois\\11-CalculaPoupancaDois.csproj",
+        "projectUniqueName": "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\11-CalculaPoupancaDois\\11-CalculaPoupancaDois.csproj",
         "projectName": "11-CalculaPoupancaDois",
-        "projectPath": "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\11-CalculaPoupancaDois\\11-CalculaPoupancaDois.csproj",
+        "projectPath": "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\11-CalculaPoupancaDois\\11-CalculaPoupancaDois.csproj",
         "packagesPath": "C:\\Users\\Leandro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\11-CalculaPoupancaDois\\obj\\",
+        "outputPath": "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\11-CalculaPoupancaDois\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leandro\\AppData\\Roaming\\NuGet\\NuGet.Config",

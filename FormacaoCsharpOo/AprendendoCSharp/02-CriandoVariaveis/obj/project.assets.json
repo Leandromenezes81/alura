@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\02-CriandoVariaveis\\02-CriandoVariaveis.csproj",
+      "projectUniqueName": "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\02-CriandoVariaveis\\02-CriandoVariaveis.csproj",
       "projectName": "02-CriandoVariaveis",
-      "projectPath": "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\02-CriandoVariaveis\\02-CriandoVariaveis.csproj",
+      "projectPath": "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\02-CriandoVariaveis\\02-CriandoVariaveis.csproj",
       "packagesPath": "C:\\Users\\Leandro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\02-CriandoVariaveis\\obj\\",
+      "outputPath": "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\02-CriandoVariaveis\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Leandro\\AppData\\Roaming\\NuGet\\NuGet.Config",

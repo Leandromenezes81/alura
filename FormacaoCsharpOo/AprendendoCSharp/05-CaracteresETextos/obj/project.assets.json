@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\05-CaracteresETextos\\05-CaracteresETextos.csproj",
+      "projectUniqueName": "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\05-CaracteresETextos\\05-CaracteresETextos.csproj",
       "projectName": "05-CaracteresETextos",
-      "projectPath": "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\05-CaracteresETextos\\05-CaracteresETextos.csproj",
+      "projectPath": "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\05-CaracteresETextos\\05-CaracteresETextos.csproj",
       "packagesPath": "C:\\Users\\Leandro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\05-CaracteresETextos\\obj\\",
+      "outputPath": "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\05-CaracteresETextos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Leandro\\AppData\\Roaming\\NuGet\\NuGet.Config",

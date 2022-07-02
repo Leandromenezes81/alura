@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\01-OlaMundo\\01-OlaMundo.csproj": {}
+    "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\01-OlaMundo\\01-OlaMundo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\01-OlaMundo\\01-OlaMundo.csproj": {
+    "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\01-OlaMundo\\01-OlaMundo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\01-OlaMundo\\01-OlaMundo.csproj",
+        "projectUniqueName": "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\01-OlaMundo\\01-OlaMundo.csproj",
         "projectName": "01-OlaMundo",
-        "projectPath": "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\01-OlaMundo\\01-OlaMundo.csproj",
+        "projectPath": "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\01-OlaMundo\\01-OlaMundo.csproj",
         "packagesPath": "C:\\Users\\Leandro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\01-OlaMundo\\obj\\",
+        "outputPath": "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\01-OlaMundo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leandro\\AppData\\Roaming\\NuGet\\NuGet.Config",

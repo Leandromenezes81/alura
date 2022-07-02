@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3sRIEQYtBf4IBiAtUxtb+Wa0pbpYVXB+L2xzH5qxZKSmPO0QgWP6h6VP+sUri9uhqeIPZldaAUtFmyVOOsDHTA==",
+  "dgSpecHash": "uzfYG2l1ArHs1HHLoHnPzyF7PkPM++IlCH/lD7RzXFbvQ4/b8bEo2eDNql7QLt9YEgBEBThak7ock6hhiHsB5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\09-Escopo\\09-Escopo.csproj",
+  "projectFilePath": "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\09-Escopo\\09-Escopo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

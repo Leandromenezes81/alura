@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\12-InvestimentoLongoPrazo\\12-InvestimentoLongoPrazo.csproj": {}
+    "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\12-InvestimentoLongoPrazo\\12-InvestimentoLongoPrazo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\12-InvestimentoLongoPrazo\\12-InvestimentoLongoPrazo.csproj": {
+    "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\12-InvestimentoLongoPrazo\\12-InvestimentoLongoPrazo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\12-InvestimentoLongoPrazo\\12-InvestimentoLongoPrazo.csproj",
+        "projectUniqueName": "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\12-InvestimentoLongoPrazo\\12-InvestimentoLongoPrazo.csproj",
         "projectName": "12-InvestimentoLongoPrazo",
-        "projectPath": "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\12-InvestimentoLongoPrazo\\12-InvestimentoLongoPrazo.csproj",
+        "projectPath": "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\12-InvestimentoLongoPrazo\\12-InvestimentoLongoPrazo.csproj",
         "packagesPath": "C:\\Users\\Leandro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\12-InvestimentoLongoPrazo\\obj\\",
+        "outputPath": "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\12-InvestimentoLongoPrazo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leandro\\AppData\\Roaming\\NuGet\\NuGet.Config",

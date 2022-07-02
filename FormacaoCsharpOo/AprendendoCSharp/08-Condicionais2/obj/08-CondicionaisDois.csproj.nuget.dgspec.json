@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\08-Condicionais2\\08-CondicionaisDois.csproj": {}
+    "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\08-Condicionais2\\08-CondicionaisDois.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\08-Condicionais2\\08-CondicionaisDois.csproj": {
+    "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\08-Condicionais2\\08-CondicionaisDois.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\08-Condicionais2\\08-CondicionaisDois.csproj",
+        "projectUniqueName": "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\08-Condicionais2\\08-CondicionaisDois.csproj",
         "projectName": "08-CondicionaisDois",
-        "projectPath": "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\08-Condicionais2\\08-CondicionaisDois.csproj",
+        "projectPath": "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\08-Condicionais2\\08-CondicionaisDois.csproj",
         "packagesPath": "C:\\Users\\Leandro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\08-Condicionais2\\obj\\",
+        "outputPath": "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\08-Condicionais2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leandro\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\ImpostoDeRenda\\ImpostoDeRenda.csproj": {}
+    "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\ImpostoDeRenda\\ImpostoDeRenda.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\ImpostoDeRenda\\ImpostoDeRenda.csproj": {
+    "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\ImpostoDeRenda\\ImpostoDeRenda.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\ImpostoDeRenda\\ImpostoDeRenda.csproj",
+        "projectUniqueName": "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\ImpostoDeRenda\\ImpostoDeRenda.csproj",
         "projectName": "ImpostoDeRenda",
-        "projectPath": "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\ImpostoDeRenda\\ImpostoDeRenda.csproj",
+        "projectPath": "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\ImpostoDeRenda\\ImpostoDeRenda.csproj",
         "packagesPath": "C:\\Users\\Leandro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leandro\\source\\repos\\AprendendoCSharp\\ImpostoDeRenda\\obj\\",
+        "outputPath": "D:\\Users\\Leandro\\Projetos\\alura\\FormacaoCsharpOo\\AprendendoCSharp\\ImpostoDeRenda\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
