@@ -1,0 +1,15 @@
+C:\Users\Leandro\source\repos\AprendendoCSharp\05-CaracteresETextos\bin\Debug\net6.0\05-CaracteresETextos.exe
+C:\Users\Leandro\source\repos\AprendendoCSharp\05-CaracteresETextos\bin\Debug\net6.0\05-CaracteresETextos.deps.json
+C:\Users\Leandro\source\repos\AprendendoCSharp\05-CaracteresETextos\bin\Debug\net6.0\05-CaracteresETextos.runtimeconfig.json
+C:\Users\Leandro\source\repos\AprendendoCSharp\05-CaracteresETextos\bin\Debug\net6.0\05-CaracteresETextos.dll
+C:\Users\Leandro\source\repos\AprendendoCSharp\05-CaracteresETextos\bin\Debug\net6.0\05-CaracteresETextos.pdb
+C:\Users\Leandro\source\repos\AprendendoCSharp\05-CaracteresETextos\obj\Debug\net6.0\05-CaracteresETextos.csproj.AssemblyReference.cache
+C:\Users\Leandro\source\repos\AprendendoCSharp\05-CaracteresETextos\obj\Debug\net6.0\05-CaracteresETextos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\source\repos\AprendendoCSharp\05-CaracteresETextos\obj\Debug\net6.0\05-CaracteresETextos.AssemblyInfoInputs.cache
+C:\Users\Leandro\source\repos\AprendendoCSharp\05-CaracteresETextos\obj\Debug\net6.0\05-CaracteresETextos.AssemblyInfo.cs
+C:\Users\Leandro\source\repos\AprendendoCSharp\05-CaracteresETextos\obj\Debug\net6.0\05-CaracteresETextos.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\source\repos\AprendendoCSharp\05-CaracteresETextos\obj\Debug\net6.0\05-CaracteresETextos.dll
+C:\Users\Leandro\source\repos\AprendendoCSharp\05-CaracteresETextos\obj\Debug\net6.0\refint\05-CaracteresETextos.dll
+C:\Users\Leandro\source\repos\AprendendoCSharp\05-CaracteresETextos\obj\Debug\net6.0\05-CaracteresETextos.pdb
+C:\Users\Leandro\source\repos\AprendendoCSharp\05-CaracteresETextos\obj\Debug\net6.0\05-CaracteresETextos.genruntimeconfig.cache
+C:\Users\Leandro\source\repos\AprendendoCSharp\05-CaracteresETextos\obj\Debug\net6.0\ref\05-CaracteresETextos.dll

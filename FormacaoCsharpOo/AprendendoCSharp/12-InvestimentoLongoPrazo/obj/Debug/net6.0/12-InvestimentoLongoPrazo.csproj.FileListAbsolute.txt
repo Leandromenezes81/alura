@@ -1,0 +1,15 @@
+C:\Users\Leandro\source\repos\AprendendoCSharp\12-InvestimentoLongoPrazo\bin\Debug\net6.0\12-InvestimentoLongoPrazo.exe
+C:\Users\Leandro\source\repos\AprendendoCSharp\12-InvestimentoLongoPrazo\bin\Debug\net6.0\12-InvestimentoLongoPrazo.deps.json
+C:\Users\Leandro\source\repos\AprendendoCSharp\12-InvestimentoLongoPrazo\bin\Debug\net6.0\12-InvestimentoLongoPrazo.runtimeconfig.json
+C:\Users\Leandro\source\repos\AprendendoCSharp\12-InvestimentoLongoPrazo\bin\Debug\net6.0\12-InvestimentoLongoPrazo.dll
+C:\Users\Leandro\source\repos\AprendendoCSharp\12-InvestimentoLongoPrazo\bin\Debug\net6.0\12-InvestimentoLongoPrazo.pdb
+C:\Users\Leandro\source\repos\AprendendoCSharp\12-InvestimentoLongoPrazo\obj\Debug\net6.0\12-InvestimentoLongoPrazo.csproj.AssemblyReference.cache
+C:\Users\Leandro\source\repos\AprendendoCSharp\12-InvestimentoLongoPrazo\obj\Debug\net6.0\12-InvestimentoLongoPrazo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\source\repos\AprendendoCSharp\12-InvestimentoLongoPrazo\obj\Debug\net6.0\12-InvestimentoLongoPrazo.AssemblyInfoInputs.cache
+C:\Users\Leandro\source\repos\AprendendoCSharp\12-InvestimentoLongoPrazo\obj\Debug\net6.0\12-InvestimentoLongoPrazo.AssemblyInfo.cs
+C:\Users\Leandro\source\repos\AprendendoCSharp\12-InvestimentoLongoPrazo\obj\Debug\net6.0\12-InvestimentoLongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\source\repos\AprendendoCSharp\12-InvestimentoLongoPrazo\obj\Debug\net6.0\12-InvestimentoLongoPrazo.dll
+C:\Users\Leandro\source\repos\AprendendoCSharp\12-InvestimentoLongoPrazo\obj\Debug\net6.0\refint\12-InvestimentoLongoPrazo.dll
+C:\Users\Leandro\source\repos\AprendendoCSharp\12-InvestimentoLongoPrazo\obj\Debug\net6.0\12-InvestimentoLongoPrazo.pdb
+C:\Users\Leandro\source\repos\AprendendoCSharp\12-InvestimentoLongoPrazo\obj\Debug\net6.0\12-InvestimentoLongoPrazo.genruntimeconfig.cache
+C:\Users\Leandro\source\repos\AprendendoCSharp\12-InvestimentoLongoPrazo\obj\Debug\net6.0\ref\12-InvestimentoLongoPrazo.dll

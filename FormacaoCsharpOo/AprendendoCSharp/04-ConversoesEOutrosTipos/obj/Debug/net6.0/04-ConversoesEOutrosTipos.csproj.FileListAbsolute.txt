@@ -1,0 +1,15 @@
+C:\Users\Leandro\source\repos\AprendendoCSharp\04-ConversoesEOutrosTipos\bin\Debug\net6.0\04-ConversoesEOutrosTipos.exe
+C:\Users\Leandro\source\repos\AprendendoCSharp\04-ConversoesEOutrosTipos\bin\Debug\net6.0\04-ConversoesEOutrosTipos.deps.json
+C:\Users\Leandro\source\repos\AprendendoCSharp\04-ConversoesEOutrosTipos\bin\Debug\net6.0\04-ConversoesEOutrosTipos.runtimeconfig.json
+C:\Users\Leandro\source\repos\AprendendoCSharp\04-ConversoesEOutrosTipos\bin\Debug\net6.0\04-ConversoesEOutrosTipos.dll
+C:\Users\Leandro\source\repos\AprendendoCSharp\04-ConversoesEOutrosTipos\bin\Debug\net6.0\04-ConversoesEOutrosTipos.pdb
+C:\Users\Leandro\source\repos\AprendendoCSharp\04-ConversoesEOutrosTipos\obj\Debug\net6.0\04-ConversoesEOutrosTipos.csproj.AssemblyReference.cache
+C:\Users\Leandro\source\repos\AprendendoCSharp\04-ConversoesEOutrosTipos\obj\Debug\net6.0\04-ConversoesEOutrosTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\source\repos\AprendendoCSharp\04-ConversoesEOutrosTipos\obj\Debug\net6.0\04-ConversoesEOutrosTipos.AssemblyInfoInputs.cache
+C:\Users\Leandro\source\repos\AprendendoCSharp\04-ConversoesEOutrosTipos\obj\Debug\net6.0\04-ConversoesEOutrosTipos.AssemblyInfo.cs
+C:\Users\Leandro\source\repos\AprendendoCSharp\04-ConversoesEOutrosTipos\obj\Debug\net6.0\04-ConversoesEOutrosTipos.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\source\repos\AprendendoCSharp\04-ConversoesEOutrosTipos\obj\Debug\net6.0\04-ConversoesEOutrosTipos.dll
+C:\Users\Leandro\source\repos\AprendendoCSharp\04-ConversoesEOutrosTipos\obj\Debug\net6.0\refint\04-ConversoesEOutrosTipos.dll
+C:\Users\Leandro\source\repos\AprendendoCSharp\04-ConversoesEOutrosTipos\obj\Debug\net6.0\04-ConversoesEOutrosTipos.pdb
+C:\Users\Leandro\source\repos\AprendendoCSharp\04-ConversoesEOutrosTipos\obj\Debug\net6.0\04-ConversoesEOutrosTipos.genruntimeconfig.cache
+C:\Users\Leandro\source\repos\AprendendoCSharp\04-ConversoesEOutrosTipos\obj\Debug\net6.0\ref\04-ConversoesEOutrosTipos.dll

@@ -1,0 +1,15 @@
+C:\Users\Leandro\source\repos\AprendendoCSharp\03-CriandoVariaveisPontoFlutuante\bin\Debug\net6.0\03-CriandoVariaveisPontoFlutuante.exe
+C:\Users\Leandro\source\repos\AprendendoCSharp\03-CriandoVariaveisPontoFlutuante\bin\Debug\net6.0\03-CriandoVariaveisPontoFlutuante.deps.json
+C:\Users\Leandro\source\repos\AprendendoCSharp\03-CriandoVariaveisPontoFlutuante\bin\Debug\net6.0\03-CriandoVariaveisPontoFlutuante.runtimeconfig.json
+C:\Users\Leandro\source\repos\AprendendoCSharp\03-CriandoVariaveisPontoFlutuante\bin\Debug\net6.0\03-CriandoVariaveisPontoFlutuante.dll
+C:\Users\Leandro\source\repos\AprendendoCSharp\03-CriandoVariaveisPontoFlutuante\bin\Debug\net6.0\03-CriandoVariaveisPontoFlutuante.pdb
+C:\Users\Leandro\source\repos\AprendendoCSharp\03-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\03-CriandoVariaveisPontoFlutuante.csproj.AssemblyReference.cache
+C:\Users\Leandro\source\repos\AprendendoCSharp\03-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\03-CriandoVariaveisPontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\source\repos\AprendendoCSharp\03-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\03-CriandoVariaveisPontoFlutuante.AssemblyInfoInputs.cache
+C:\Users\Leandro\source\repos\AprendendoCSharp\03-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\03-CriandoVariaveisPontoFlutuante.AssemblyInfo.cs
+C:\Users\Leandro\source\repos\AprendendoCSharp\03-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\03-CriandoVariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\source\repos\AprendendoCSharp\03-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\03-CriandoVariaveisPontoFlutuante.dll
+C:\Users\Leandro\source\repos\AprendendoCSharp\03-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\refint\03-CriandoVariaveisPontoFlutuante.dll
+C:\Users\Leandro\source\repos\AprendendoCSharp\03-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\03-CriandoVariaveisPontoFlutuante.pdb
+C:\Users\Leandro\source\repos\AprendendoCSharp\03-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\03-CriandoVariaveisPontoFlutuante.genruntimeconfig.cache
+C:\Users\Leandro\source\repos\AprendendoCSharp\03-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\ref\03-CriandoVariaveisPontoFlutuante.dll

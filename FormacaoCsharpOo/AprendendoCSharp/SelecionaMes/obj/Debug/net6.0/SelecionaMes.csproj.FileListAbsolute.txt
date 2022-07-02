@@ -1,0 +1,15 @@
+C:\Users\Leandro\source\repos\AprendendoCSharp\SelecionaMes\bin\Debug\net6.0\SelecionaMes.exe
+C:\Users\Leandro\source\repos\AprendendoCSharp\SelecionaMes\bin\Debug\net6.0\SelecionaMes.deps.json
+C:\Users\Leandro\source\repos\AprendendoCSharp\SelecionaMes\bin\Debug\net6.0\SelecionaMes.runtimeconfig.json
+C:\Users\Leandro\source\repos\AprendendoCSharp\SelecionaMes\bin\Debug\net6.0\SelecionaMes.dll
+C:\Users\Leandro\source\repos\AprendendoCSharp\SelecionaMes\bin\Debug\net6.0\SelecionaMes.pdb
+C:\Users\Leandro\source\repos\AprendendoCSharp\SelecionaMes\obj\Debug\net6.0\SelecionaMes.csproj.AssemblyReference.cache
+C:\Users\Leandro\source\repos\AprendendoCSharp\SelecionaMes\obj\Debug\net6.0\SelecionaMes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\source\repos\AprendendoCSharp\SelecionaMes\obj\Debug\net6.0\SelecionaMes.AssemblyInfoInputs.cache
+C:\Users\Leandro\source\repos\AprendendoCSharp\SelecionaMes\obj\Debug\net6.0\SelecionaMes.AssemblyInfo.cs
+C:\Users\Leandro\source\repos\AprendendoCSharp\SelecionaMes\obj\Debug\net6.0\SelecionaMes.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\source\repos\AprendendoCSharp\SelecionaMes\obj\Debug\net6.0\SelecionaMes.dll
+C:\Users\Leandro\source\repos\AprendendoCSharp\SelecionaMes\obj\Debug\net6.0\refint\SelecionaMes.dll
+C:\Users\Leandro\source\repos\AprendendoCSharp\SelecionaMes\obj\Debug\net6.0\SelecionaMes.pdb
+C:\Users\Leandro\source\repos\AprendendoCSharp\SelecionaMes\obj\Debug\net6.0\SelecionaMes.genruntimeconfig.cache
+C:\Users\Leandro\source\repos\AprendendoCSharp\SelecionaMes\obj\Debug\net6.0\ref\SelecionaMes.dll
