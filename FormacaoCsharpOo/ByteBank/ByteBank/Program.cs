@@ -114,15 +114,19 @@ Console.WriteLine("Bem vindo ao ByteBank");
 
 // Console.WriteLine($"Saldo: R$ {String.Format("{0:0.00}", conta4.Saldo)}");
 
-Cliente danielle = new Cliente();
-danielle.Nome = "Danielle do Vale";
+//Cliente danielle = new Cliente();
+//danielle.Nome = "Danielle do Vale";
 
-ContaCorrente conta4 = new ContaCorrente(235, "123456-X");
-conta4.Saldo = 100;
-conta4.Titular = danielle;
-Console.WriteLine(conta4.Titular.Nome);
-Console.WriteLine(conta4.Saldo);
-Console.WriteLine(conta4.Numero_Agencia);
-Console.WriteLine(conta4.Conta);
+//ContaCorrente conta4 = new ContaCorrente(235, "123456-X");
+//conta4.Saldo = 100;
+//conta4.Titular = danielle;
+//Console.WriteLine(conta4.Titular.Nome);
+//Console.WriteLine(conta4.Saldo);
+//Console.WriteLine(conta4.Numero_Agencia);
+//Console.WriteLine(conta4.Conta);
+
+//ContaCorrente conta5 = new ContaCorrente(254, "123456-X");
+//ContaCorrente conta6 = new ContaCorrente(835, "123456-X");
+Console.WriteLine(ContaCorrente.);
 
 Console.ReadKey();

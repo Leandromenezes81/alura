@@ -61,13 +61,17 @@ namespace ByteBank
             }
 
         }
-        public int TotalDeContasCriadas { get; set; }
+        // Propriedade estática
+        public static int TotalDeContasCriadas { get; set; }
 
         // Passando campos obrigatórios no construtor
-        public ContaCorrente(int numero_agencia, string conta)
+        public ContaCorrente(Cliente titular, string nome_agencia, int numero_agencia, string conta)
         {
+            Titular = titular;
+            Nome_Agencia = nome_agencia;
             Numero_Agencia = numero_agencia;
             Conta = conta;
+            TotalDeContasCriadas += 1;
         }
 
         public bool Sacar(double valor)
@@ -102,15 +106,6 @@ namespace ByteBank
                 return true;
             }
         }
-
-        // public void ExibirDadosConta()
-        // {
-        //     Console.WriteLine($"Titular: {titular}");
-        //     Console.WriteLine($"Conta: {conta}");
-        //     Console.WriteLine($"Número da Agência: {numero_agencia}");
-        //     Console.WriteLine($"Nome da Agência: {nome_agencia}");
-        //     Console.WriteLine($"Saldo: {String.Format("{0:0.00}", saldo)}");
-        // }
 
         public void DefinirSaldo(double valor)
         {
