@@ -2,33 +2,40 @@
 using ByteBank_ADM.Funcionarios;
 using ByteBank_ADM.Utilitarios;
 
-Console.WriteLine("Boas vindas ao ByteBank ADM.");
+Console.WriteLine("Boas vindas ao ByteBank Administração!\n");
 
-GerenciadorDeBonificacao gerenciador = new GerenciadorDeBonificacao();
+Console.WriteLine("\n");
 
-Funcionario pedro = new Funcionario();
-pedro.Nome = "Pedro";
-pedro.Cpf = "123456789-00";
-pedro.Salario = 2000;
-
-//Console.WriteLine($"Nome: {pedro.Nome}");
-//Console.WriteLine($"CPF: {pedro.Cpf}");
-//Console.WriteLine($"Salário: R$ {String.Format("{0:0.00}", pedro.Salario)}");
-Console.WriteLine($"Bonificação: R$ {String.Format("{0:0.00}", pedro.getBonificacao())}");
-
-Diretor paula = new Diretor();
-paula.Nome = "Paula";
-paula.Cpf = "098765432-11";
-paula.Salario = 5000;
-
-//Console.WriteLine($"Nome: {paula.Nome}");
-//Console.WriteLine($"CPF: {paula.Cpf}");
-//Console.WriteLine($"Salário: R$ {String.Format("{0:0.00}", paula.Salario)}");
-Console.WriteLine($"Bonificação: R$ {String.Format("{0:0.00}", paula.getBonificacao())}");
-
-gerenciador.Registrar(pedro);
-gerenciador.Registrar(paula);
-
-Console.WriteLine($"Bonificação: R$ {String.Format("{0:0.00}", gerenciador.getBonificacao())}");
+Console.WriteLine("### Calculando Bonificação ###");
+CalcularBonificacao();
 
 Console.ReadKey();
+
+static void CalcularBonificacao()
+{
+    GerenciadorDeBonificacao gerenciadorBonificacao = new GerenciadorDeBonificacao();
+
+    Funcionario pedro = new Designer("833.222.048-39");
+    pedro.Nome = "Pedro";
+
+    Funcionario roberta = new Diretor("159.753.398-04");
+    roberta.Nome = "Roberta";
+
+    Funcionario igor = new Auxiliar("981.198.778-53");
+    igor.Nome = "Igor";
+
+    Funcionario camila = new GerenteDeContas("326.985.628-89");
+    camila.Nome = "Camila";
+
+    Desenvolvedor guilherme = new Desenvolvedor("456.175.468-20");
+    guilherme.Nome = "Guilherme";
+
+    gerenciadorBonificacao.Registrar(guilherme);
+    gerenciadorBonificacao.Registrar(pedro);
+    gerenciadorBonificacao.Registrar(roberta);
+    gerenciadorBonificacao.Registrar(igor);
+    gerenciadorBonificacao.Registrar(camila);
+
+    Console.WriteLine("Total de bonificações do mês " +
+        gerenciadorBonificacao.GetTotalBonificacao());
+}

@@ -4,21 +4,17 @@ namespace ByteBank_ADM.Utilitarios
 {
     public class GerenciadorDeBonificacao
     {
-        private double totalBonificacao;
+        private double _totalBonificacao;
 
         public void Registrar(Funcionario funcionario)
         {
-            this.totalBonificacao += funcionario.getBonificacao();
+            _totalBonificacao += funcionario.GetBonificacao();
         }
 
-        public void Registrar(Diretor funcionario)
+        public double GetTotalBonificacao()
         {
-            this.totalBonificacao += funcionario.getBonificacao();
+            return _totalBonificacao;
         }
 
-        public double getBonificacao()
-        {
-            return this.totalBonificacao;
-        }
     }
 }
